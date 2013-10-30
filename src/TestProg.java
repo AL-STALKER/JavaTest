@@ -5,6 +5,7 @@ public class TestProg {
 		int counter = 0;
 		
 		System.out.println("Test prog!");
+		System.out.println("Counter = " + counter);
 	}
 
 }
